@@ -1,5 +1,5 @@
 # Poc-Figma-Hackerone
-To run the script execute: 
+To run the script execute:
 
 ```sh
 python3 -m venv venv
